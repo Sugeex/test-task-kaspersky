@@ -1,0 +1,14 @@
+.news__keywords{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.keyword{
+    border: 1px solid #93a4b1;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    display: flex;
+    gap: 0.2rem;
+    align-items: center;
+}

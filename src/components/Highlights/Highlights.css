@@ -1,0 +1,15 @@
+.highlight{
+    font-size: 1rem;
+    color: white;
+}
+
+.highlight_btn{
+    padding: 0;
+}
+
+.ant-typography mark {
+    background-color: #0573cf;
+    color: #fff;
+    padding: 0.15rem;
+    border-radius: 0.4rem;
+}
