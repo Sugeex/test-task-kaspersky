@@ -1,0 +1,18 @@
+.news__duplicat {
+    margin-top: 1rem;
+    border: 1px solid #0958d9;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.duplicat__btn{
+    background-color: transparent;
+    margin-top: 1rem;
+    color: #93a4b1;
+    font-size: 1.3rem;
+    border-radius: 0.5rem;
+    pointer-events: none;
+}

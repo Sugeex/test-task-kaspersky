@@ -1,0 +1,46 @@
+.highlight{
+    font-size: 1rem;
+    color: white;
+}
+
+.highlight_btn{
+    padding: 0;
+}
+
+.ant-typography mark {
+    background-color: #0573cf;
+    color: #fff;
+    padding: 0.15rem;
+    border-radius: 0.4rem;
+}
+
+.news__keywords{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.keyword{
+    border: 1px solid #93a4b1;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    display: flex;
+    gap: 0.2rem;
+    align-items: center;
+}
+
+.news__sourse{
+    background-color: #313538;
+    color: #0958d9;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 0.4rem;
+    padding: 0.4rem 0.1rem;
+    width: 10rem;
+    margin-top: 0.5rem;
+}
+
+.sourse__link{
+    width: 100%;
+}

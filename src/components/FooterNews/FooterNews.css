@@ -1,0 +1,9 @@
+.news__footer{
+    margin-top: 1rem;
+}
+
+.news__dup{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

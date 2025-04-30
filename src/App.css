@@ -1,0 +1,16 @@
+.news_cont{
+    max-width: 60rem;
+    width: 100%;
+    border: 1px solid #93a4b1;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    color: #93a4b1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.news__title{
+    color: #0958d9;
+    font-size: 1.5rem;
+}

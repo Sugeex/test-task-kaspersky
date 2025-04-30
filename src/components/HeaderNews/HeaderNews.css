@@ -1,0 +1,24 @@
+.infoHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.infoHeader__left{
+    display: flex;
+    gap: 1rem;
+}
+
+.infoHeader__traffic,
+.infoHeader__countries{ 
+    display: flex;
+    gap: 0.3rem;
+}
+
+.infoHeader__percent {
+    margin-left: 0.2rem;
+}
+
+strong{
+    color: #fff;
+}

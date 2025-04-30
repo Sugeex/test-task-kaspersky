@@ -3,3 +3,16 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+#root{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: linear-gradient(to bottom right, #241c34, #000);
+}

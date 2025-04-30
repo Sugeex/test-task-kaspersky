@@ -28,3 +28,8 @@ export interface IData_TrafficItem {
     value       : string                        // название страны-источник траффика
     count       : number                        // объём траффика для указанной страны
 }
+
+// для дубликатов
+export interface IDuplicate {
+    duplicate: boolean
+  }
